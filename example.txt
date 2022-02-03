@@ -3,8 +3,8 @@ vi ~/.ssh/id_rsa.pub
 git remote set-url origin git@github.com:dhanashrigurmule/{reponame}
 Hi amol.... shiv
 Hi dhanashri
-kaka
-kaku
-baba
-aai
-bayko
+kaka2
+kaku2
+baba8
+aai8
+bayko100
